@@ -996,7 +996,7 @@ if(!function_exists('etendard_admin_notice')){
 		
 	}
 }
-add_action('admin_notices', 'etendard_admin_notice');
+// add_action('admin_notices', 'etendard_admin_notice');
 
 // Thanks to http://wptheming.com/2011/08/admin-notices-in-wordpress/
 if (!function_exists('etendard_ignore_admin_notice')){
